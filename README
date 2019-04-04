@@ -1,0 +1,17 @@
+# Follow up Questions
+by Ryan James
+
+## 1. Why do we multiply the value from step 5 above 4?
+Because the coordinates are only averaged from one quadrant of a circle. 
+
+## 2. What do you observe in the output when running your program with parameters of increasing size?
+Each increased itiration brings the answer closer to PI.
+
+## 3. If you run the program multiple times with the same parameter, does the output remain the same? why?
+You get different results because the parameters are seeded by the current time and are random.
+
+## 4. Find a parameter that requires multiple seconds of run time. What is that parameter? how accurate is the estimation?
+I tried 150 million and it was accurate to 4 decimal places.
+
+## 5. Research another use of the Monte Carlo method. Prepare to discuss it in class.
+The monte carlo method can be used to calculate areas of shapes that aren't typical or easily defined.
